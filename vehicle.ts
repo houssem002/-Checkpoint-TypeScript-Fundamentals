@@ -28,4 +28,4 @@ class Car implements Vehicle {
 const myCar = new Car("Toyota", "Corolla", 2020);
 
 // Call the start method to verify it logs the correct message
-myCar.start();  // Output: "Car engine started"
+myCar.start(); 
